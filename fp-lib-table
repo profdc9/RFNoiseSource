@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RFNoiseSource)(type KiCad)(uri "$(KIPRJMOD)/RFNoiseSource.pretty")(options "")(descr ""))
+)
